@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NimbleKoala
-- 👀 I’m interested in cybersecurity, video renders, coding, and competitive math.
-- 🌱 I’m currently learning cybersecurity and AOPS Volume 1.
+- 👀 I’m interested in cybersecurity, video renders, coding, web development and competitive math.
+- 🌱 I’m currently learning cybersecurity and javascript.
 - 📫 How to reach me joelchan414@gmail.com
 
 <!---
